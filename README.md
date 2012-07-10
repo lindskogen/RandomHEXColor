@@ -5,12 +5,12 @@ Generates a random hex-color at each cursor position.
 
 ##Usage
 
-Edit &#2192; Random Color
+Edit → Random Color
 
 __or__
 
 ###Windows/Linux:
-    ctrl+alt+C
+    ctrl+alt+c
 
 ###OS X:
     ^C
