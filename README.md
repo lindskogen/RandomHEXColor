@@ -1,16 +1,16 @@
-#RandomColor
+# RandomColor
 
 Generates a random hex-color at each cursor position.
 
 
-##Usage
+## Usage
 
 Edit → Random Color
 
 __or__
 
-###Windows/Linux:
+### Windows/Linux:
     ctrl+alt+c
 
-###OS X:
+### macOS:
     ^C
