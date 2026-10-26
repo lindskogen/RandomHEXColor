@@ -1,5 +1,13 @@
 [
 	{
-		"keys": ["ctrl+alt+c"], "command": "random_color"
+		"keys": ["ctrl+alt+c"], "command": "random_color",
+		"context": [
+			{
+				"key": "selector",
+				"operator": "equal",
+				"operand": "source.css, source.scss, source.sass, source.less, source.stylus, string, text.plain",
+				"match_all": true
+			}
+		]
 	}
 ]
